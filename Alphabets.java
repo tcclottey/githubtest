@@ -11,6 +11,5 @@ public class Alphabets{
       for (int i=0; i<(alphabets.length); i++ ) {
     	  System.out.print(alphabets[i] + " ");
       }
-	}
-	
+   }
 }
